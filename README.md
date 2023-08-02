@@ -39,7 +39,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://microverse.org/">Microverse</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">JAVASCRIPT</a></li>
   </ul>
 </details>
 

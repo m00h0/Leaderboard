@@ -13,24 +13,18 @@
         <div class="contianer2">
             <div class="scoreboard">
               <h2>Recent scores</h2>
-              <button id="refreshbtn">Refresh</button>
+              <button class="refreshbtn"  id="click">Refresh</button>
             </div>
             <div class="listOfNames">
-                <ul>
-                    <li>Name <span>:100</span></li>
-                    <li>Name <span>:20</span></li>
-                    <li>Name <span>:50</span></li>
-                    <li>Name <span>:78</span></li>
-                    <li>Name <span>:125</span></li>
-                    <li>Name <span>:77</span></li>
-                    <li>Name <span>:42</span></li>
+                <ul id="ListOfScores">
+                    
                 </ul>
             </div>
             <div class="input-scores">
                 <h2>Add your score</h2>
-                <form class="check-in">
-                    <input type="text" name="Name" maxlength="30" placeholder="Your name" required>
-                    <input type="number" name="Scores" placeholder="Your scores" required>
+                <form class="check-in" id="form">
+                    <input type="text" name="user" maxlength="30" placeholder="Your name" required>
+                    <input type="number" name="score" placeholder="Your scores" required>
                     <button type="submit">Submit</button>
                 </form>
             </div>
