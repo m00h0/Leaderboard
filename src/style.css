@@ -10,17 +10,24 @@
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-image: url(../cool-geometric-triangular-hallway-3d-rendering.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  background-color: rgba(230, 236, 241, 0.384);
 }
 
 .h-1 {
   font-size: 3.5rem;
   margin-left: 10%;
   margin-top: 8%;
+  font-weight: 900;
+  color: #5498f0;
 }
 
 .contianer2 {
   margin-left: 14%;
+  color: #5160eb;
 }
 
 .scoreboard {
@@ -35,8 +42,15 @@ body {
   margin-left: 2%;
   border-radius: 4px;
   color: black;
+  box-shadow: 5px 0 5px 2px rgba(0, 0, 0, 0.801);
   font-weight: 900;
   cursor: pointer;
+}
+
+.refreshbtn:hover {
+  background-color: #4958e4;
+  color: rgb(219, 245, 245);
+  box-shadow: 5px 0 5px 2px rgba(64, 132, 235, 0.973);
 }
 
 .listOfNames {
@@ -45,6 +59,7 @@ body {
   border-radius: 2px;
   padding-top: 0.5rem;
   padding-left: 0.5rem;
+  box-shadow: 5px 0 5px 2px rgba(0, 0, 0, 0.801);
 }
 
 li {
@@ -88,8 +103,15 @@ form button {
   border: 2px solid #222;
   border-radius: 2px;
   background-color: rgb(255, 255, 255);
+  box-shadow: 5px 0 5px 2px rgba(0, 0, 0, 0.801);
   font-weight: 900;
   cursor: pointer;
+}
+
+form button:hover {
+  background-color: #4958e4;
+  color: rgb(229, 236, 236);
+  box-shadow: 5px 0 5px 2px rgba(64, 132, 235, 0.973);
 }
 
 form input {
