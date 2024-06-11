@@ -101,7 +101,7 @@ npx hint . npx stylelint "**/*.{css,scss}" npx eslint .
 
 👤 **Ahmed**
 
-- GitHub: [@githubhandle](https://github.com/newtonah0)
+- GitHub: [@m00h0](https://github.com/m00h0)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
