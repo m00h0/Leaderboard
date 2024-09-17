@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Leaderboard] <a name="about-project)"></a>
+# 📖 [Leaderboard] <a name="about-project"></a>
 
 
 
