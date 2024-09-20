@@ -36,8 +36,8 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 
-<details>
-  <summary>Client</summary>
+<details>  <a name="tech-stack"></a>
+  <summary>Client</summary> 
   <ul>
     <li><a href="#">HTML</a></li>
     <li><a href="#">CSS</a></li>
