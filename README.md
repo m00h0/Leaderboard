@@ -14,8 +14,8 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 https://github.com/m00h0/Leaderboard.git
 
 
-### Install
+### Install   <a name="install"></a>
 
 Install this project with:
 
