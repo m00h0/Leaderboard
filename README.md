@@ -110,7 +110,7 @@ npx hint . npx stylelint "**/*.{css,scss}" npx eslint .
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing <a name="Microverse"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
