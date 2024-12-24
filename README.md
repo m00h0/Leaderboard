@@ -104,7 +104,7 @@ npx hint . npx stylelint "**/*.{css,scss}" npx eslint .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ Coming soon. ] 
+- (Coming soon.)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
