@@ -29,7 +29,7 @@
 
 
 
-**[Ahmed Leaderboard ]** Leaderboard Website.
+ **Leaderboard Website.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,7 +47,7 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[Leaderboard]**
+- **Leaderboard**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ npx hint . npx stylelint "**/*.{css,scss}" npx eslint .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- (Coming soon.)  
+- (Coming soon)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
